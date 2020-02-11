@@ -1,3 +1,8 @@
-<h1> Hello, Majid Khan Mohmand </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> The code has changed now </h3>
+<html>
+<head>
+</head>
+<body>
+<h1>CI/CD Pipeline</h1>
+<h2>Tools Used: Git, Jenkins, Linux Red Hat, Azure Cloud, Java</h2>
+</body>
+</html>
